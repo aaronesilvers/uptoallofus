@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+Jason Early -- Design/Front End Development -- @jason_early
+Brian Dusablon -- Hosting/Development -- @briandusablon
+    
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
